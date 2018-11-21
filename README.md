@@ -1,2 +1,2 @@
 # ls_project
-My implementation of "ls" command
+My buggy implementation of "ls" command fro class project
